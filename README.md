@@ -36,7 +36,8 @@ interface Item {
 }
 ```
 
-We don't know the end of the tree, it's out of our control. We just know that everything is an <ul>.
+We don't know the end of the tree, it's out of our control. We just know that everything is an `<ul>`
+
 We expect something like the following: 
 
 ```html
