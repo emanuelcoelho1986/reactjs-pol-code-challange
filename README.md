@@ -1,5 +1,13 @@
 # React Polarising Code Exercise
 
+> ...Front end is the hardest kind of dev I do. The folks who do it every day are heroes.
+
+Tweet from: [Yehuda Katz](https://twitter.com/wycats/status/930463710941872128?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E930463710941872128%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fblog.logrocket.com%2Fthe-increasing-nature-of-frontend-complexity-b73c784c09ae%2F)
+
+[The increasing nature of frontend complexity](https://blog.logrocket.com/the-increasing-nature-of-frontend-complexity-b73c784c09ae/)
+
+***
+
 ## Why the challenge
 
 Nowadays, the Frontend development scene has become more than simple HTML pages with CSS and some Javascript. In general, when developing Enterprise applications, there is the need to plan, design and architect how the WebSite (WebAPP/PWA/MOBILE/etc) will be done.
@@ -15,7 +23,7 @@ The objective is to check how you think when approaching a problem.
 Reusable code and not a lot of time invest in this coding exercise. It should be a quick thing to do.
 
 ***
-## Problem
+## The Challenge
 
 We have a list of Items with the following structure:
 
