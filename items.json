@@ -1,0 +1,53 @@
+[
+    {
+        "id": 0,
+        "name": "Server",
+        "children": [
+            {
+                "id": 2,
+                "name": "Element 2"
+            },
+            {
+                "id": 3,
+                "name": "Element 3",
+                "children": [
+                    {
+                        "id": 4,
+                        "name": "Element 4"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Element 5",
+                        "children": [
+                            {
+                                "id": 6,
+                                "name": "Element 6"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "name": "Element 7",
+                "link": "https://www.google.com",
+                "children": [
+                    {
+                        "id": 8,
+                        "link": "https://www.polarising.com",
+                        "name": "Element 8"
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "name": "Element 9",
+                "link": "https://www.github.com"
+            },
+            {
+                "id": 10,
+                "name": "Element 10"
+            }
+        ]
+    }
+]
