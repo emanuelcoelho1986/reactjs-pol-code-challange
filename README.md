@@ -83,7 +83,7 @@ The example above is just some guidance. It doesn't mean that is the solution or
 - You should use the following technologies
     - ReactJS
     - TypeScript
-    - Request the file remotely. The file is available at: https://
+    - Request the file remotely. The file is available at: [https://emanuelcoelho1986.github.io/reactjs-pol-code-challange/items.json](https://emanuelcoelho1986.github.io/reactjs-pol-code-challange/items.json)
     - There is no need to apply styles. Raw HTML will suffice.
 - Nice to have:
     - At least one Class Component and one functional component
